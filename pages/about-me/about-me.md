@@ -1,0 +1,5 @@
+# About Me
+Heyy Heyy, ich bin Jolie ^^
+Studentin der angewandten Informatik und Enthusiast für Daten, Studien und alles was dazu gehört. Bin großer Fan von systemischen Denken und versuche diese Ansätze ebenfalls in meinen Arbeiten einfließen zu lassen. In diesem Blog erfährst du einiges Über meine persönlichen Interessen und Projekte. Gerade sind Themen wie datengetriebenes Game Development, Machine Vision und Metabolische Gesundheit im Fokus und wird wohl Bestandteil dieses Blogs. Außerdem arbeite ich dahin Selbstständigkeit zu Erreichen und mit der Entwicklung von sprachmodellgetriebenes Coding klarzukommen. Aber das wird schon irgendwie. Optimism should never die! :D
+
+Die Einträge, Artikel usw. werden stets ohne Sprachmodelle geschrieben. Charakter im Text ist mir sehr wichtig. Ausnahme werden Überseztungen der Texte ins Englische sein. Mir fehlt einfach die Zeit, werde jedoch die Übersetzungen markieren und überprüfen.
